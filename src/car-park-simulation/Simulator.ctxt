@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Simulator()
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
 comment1.params=
-comment1.target=void\ run()
+comment1.target=Simulator()
 comment2.params=
-comment2.target=void\ tick()
-numComments=3
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ tick()
+numComments=4
